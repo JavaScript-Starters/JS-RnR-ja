@@ -4,7 +4,7 @@
 
 # JavaScript Resources and Recommenders ja
 
-> 日本語で提供されている優れたJavaScript学習リソースを集めたオープンソースプロジェクトです📚
+> 日本語で提供されている優れた JavaScript 学習リソースを集めたオープンソースプロジェクトです 📚
 
 それぞれの学習リソースには推薦者一覧を含めています。<br>
 これは、初心者がオープンソースプロジェクトに初めての貢献をするための日本語のチュートリアルでもあります。
@@ -21,6 +21,14 @@
 
 ## JavaScript
 
+- :bulb:[GitHub 上の JavaScript トレンド](https://github.com/trending/javascript)
+    <details>
+      <summary>2 人がおすすめ！</summary>
+      <ul>
+        <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+      </ul>
+    </details>
 - :books:[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript) - 公式リファレンス
     <details>
       <summary>1 人がおすすめ！</summary>
@@ -54,5 +62,29 @@
       <summary>1 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+      </ul>
+    </details>
+- :bulb:[javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/ja-JA/README-ja_JA.md) - JavaScript に関する選択式の問題集を掲載しているリポジトリ
+    <details>
+      <summary>2 人がおすすめ！</summary>
+      <ul>
+        <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+      </ul>
+    </details>
+- :page_facing_up:[Airbnb JavaScript スタイルガイド-日本語訳](https://mitsuruog.github.io/javascript-style-guide/)
+    <details>
+      <summary>2 人がおすすめ！</summary>
+      <ul>
+        <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+      </ul>
+    </details>
+- :bulb:[The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript) - ベストプラクティスに従って、初心者向けに JavaScript で実装されたアルゴリズムとデータ構造、およびテストのコード集
+    <details>
+      <summary>2 人がおすすめ！</summary>
+      <ul>
+        <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
