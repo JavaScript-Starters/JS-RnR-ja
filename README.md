@@ -31,37 +31,42 @@
     </details>
 - :books:[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript) - 公式リファレンス
     <details>
-      <summary>1 人がおすすめ！</summary>
+      <summary>2 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
 - :books:[JavaScript Primer](https://jsprimer.net/) - ES2015(ES6)以降をベースにして一から JavaScript を学べる書籍
     <details>
-      <summary>1 人がおすすめ！</summary>
+      <summary>2 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
 - :books:[イベントループとプロミスチェーンで学ぶ JavaScript の非同期処理](https://zenn.dev/estra/books/js-async-promise-chain-event-loop)
     <details>
-      <summary>1 人がおすすめ！</summary>
+      <summary>2 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
 - :books:[文系大学生のための JavaScript 入門](https://zenn.dev/ojk/books/intro-to-javascript)
     <details>
-      <summary>1 人がおすすめ！</summary>
+      <summary>2 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
 - :computer:[freeCodeCamp](https://www.freecodecamp.org/japanese/learn/javascript-algorithms-and-data-structures) - JavaScript のアルゴリズムとデータ構造を含んだ無料の学習サービス
     <details>
-      <summary>1 人がおすすめ！</summary>
+      <summary>2 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
+        <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
       </ul>
     </details>
 - :bulb:[javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/ja-JA/README-ja_JA.md) - JavaScript に関する選択式の問題集を掲載しているリポジトリ
