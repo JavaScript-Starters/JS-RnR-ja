@@ -23,10 +23,11 @@
 
 - 💡[GitHub 上の JavaScript トレンド](https://github.com/trending/javascript)
     <details>
-      <summary>2 人がおすすめ！</summary>
+      <summary>3 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
         <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+        <li><a href="https://github.com/orangetall">orangetall</a></li>
       </ul>
     </details>
 - 📚[MDN Web Docs](https://developer.mozilla.org/ja/docs/Web/JavaScript) - 公式リファレンス
@@ -63,18 +64,20 @@
     </details>
 - 💻[freeCodeCamp](https://www.freecodecamp.org/japanese/learn/javascript-algorithms-and-data-structures) - JavaScript のアルゴリズムとデータ構造を含んだ無料の学習サービス
     <details>
-      <summary>2 人がおすすめ！</summary>
+      <summary>3 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
         <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+	<li><a href="https://github.com/orangetall">orangetall</a></li>
       </ul>
     </details>
 - 💡[javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/ja-JA/README-ja_JA.md) - JavaScript に関する選択式の問題集を掲載しているリポジトリ
     <details>
-      <summary>2 人がおすすめ！</summary>
+      <summary>3 人がおすすめ！</summary>
       <ul>
         <li><a href="">testUser</a></li>
         <li><a href="https://github.com/kazzyfrog">kazzyfrog</a></li>
+	<li><a href="https://github.com/orangetall">orangetall</a></li>
       </ul>
     </details>
 - 📄[Airbnb JavaScript スタイルガイド-日本語訳](https://mitsuruog.github.io/javascript-style-guide/)
