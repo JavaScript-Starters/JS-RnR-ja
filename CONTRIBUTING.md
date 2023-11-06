@@ -15,6 +15,7 @@
 - [どんな貢献をすればいいですか？](#どんな貢献をすればいいですか)
   - [実際に手を動かす](#実際に手を動かす)
 - [貢献手順](#貢献手順)
+  - [セットアップ:](#セットアップ)
   - [Step 1: このリポジトリをフォーク](#step-1このリポジトリをフォーク)
   - [Step 2: ローカルマシンへクローン](#step-2ローカルマシンへクローン)
   - [Step 3: 作業用ブランチを作成](#step-3作業用ブランチを作成)
@@ -86,7 +87,13 @@
 
 ## 貢献手順
 
-- :memo:もし助けが必要な場合、このプロジェクトに関する改善点を見つけた場合は、Issues から報告してください！
+:memo:助けが必要な場合、このプロジェクトに関する改善点を見つけた場合は、[Issues](https://github.com/JavaScript-Starters/JS-RnR-ja/issues) から報告してください！
+
+### セットアップ：
+
+- もしGitHubのアカウントを持っていない場合は、[Sign up](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)からアカウントを作成してください。
+  - そして、必要に応じて完全なる初心者向けの[GitHub Hello Worldのチュートリアル](https://docs.github.com/ja/get-started/quickstart/hello-world)を先に行うことをお勧めします。
+- パスワードの代わりとなるアクセストークンが設定されていない場合、クローンなどのタイミングでエラーが生じることがあります。その場合は[Githubアクセストークンの設定](https://docs.github.com/ja/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)を参照してください。
 
 ### Step 1:このリポジトリをフォーク
 
